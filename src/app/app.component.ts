@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Tema1';
+  myArray = [1,2,3,4,5,6]; 
 }
+ 
